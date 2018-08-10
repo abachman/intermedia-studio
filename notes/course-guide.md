@@ -53,7 +53,7 @@ These are all to start with. As we come across an interesting new service or app
 
 ## Assignments
 
-All assignments will be project based. Most projects are small: one week. Two projects will be medium: two weeks. One project will be large: four weeks.
+All assignments will be project based. Most projects are small: one week. Two projects will be medium, one project will be large.
 
 {full assignments description goes here}
 
@@ -62,28 +62,23 @@ All assignments will be project based. Most projects are small: one week. Two pr
 {explanation and description of class participation goes here}
 
 ## Course Outline
-* week 001 - August 28: Introductions, surveys, setup
-* week 002 - September 04: Full stack overview, connecting and communication
-* week 003 - September 11: APIs and protocols
-* week 004 - September 18: Rapid prototyping
-* week 005 - September 25: Feedback loops
-* week 006 - October 02: Randomness and determinism
-    * start medium project 1
-* week 007 - October 09: The Smart Home!
-* *week NULL - October 15: fall break*
-* week 008 - October 23: The Internet of Things Sucks!
-    * review medium project 1
-* week 009 - October 30: Hidden devices
-    * start medium project 2
-* week 010 - November 06: Security
-* week 011 - November 13: Low fidelity communication
-    * review medium project 2
-* week 012 - November 20: Escape rooms and other useful nonsense
-    * start large project
-* week 013 - November 27: 50 year projects
-* week 014 - December 04: Alternatives to traditional education
-* week 015 - December 11: The Future
-    * review large project
+
+* `week 001 - Aug 28` Introductions, surveys, setup
+* `week 002 - Sep 04` Full stack overview, connecting and communication
+* `week 003 - Sep 11` APIs and protocols
+* `week 004 - Sep 18` Rapid prototyping
+* `week 005 - Sep 25` Feedback loops
+* `week 006 - Oct 02` Randomness and determinism
+* `week 007 - Oct 09` The Smart Home!
+* *fall break*
+* `week 008 - Oct 23` The Internet of Things Sucks!
+* `week 009 - Oct 30` Hidden devices
+* `week 010 - Nov 06` Security
+* `week 011 - Nov 13` Low fidelity communication
+* `week 012 - Nov 20` Escape rooms and other useful nonsense
+* `week 013 - Nov 27` 50 year projects
+* `week 014 - Dec 04` Alternatives to traditional education
+* `week 015 - Dec 11` The Future
 
 A more complete outline is available in `notes/outline.md`.
 
