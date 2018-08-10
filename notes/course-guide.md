@@ -1,6 +1,6 @@
 NOTE: This document is a work in progress. The current version is available at [the course website](https://github.com/abachman/intermedia-studio-3) under `notes/course-guide.md`
 
-|     | 👁  | 
+|     | 👁  |
 | --- | --- |
 | **instructor**     | Adam Bachman                                    |
 | **pronouns**       | he / him                                        |
@@ -17,16 +17,16 @@ Through the introduction of technical concepts and creative software and hardwar
 
 Through the use of small and frequent projects in addition to sevearl larger, singular works, we will have more opportunities to play, fail, learn, and grow in both understanding and ability. We do not understand these tools merely by hearing stories about them, we understand them by using them. Most in-class time will be spent designing, building, and fixing projects.
 
-## Standards / Expectations
+## Goals / Standards / Expectations
 
-* Be able to complete functional interactive art works composing of original hardware and software components `make stuff`
-* Demonstrate the rapid prototyping of new ideas in code and in hardware `sketch ability`
-* Demonstrate the practice of creating new work based on existing projects `remixing / extending`
-* Demonstrate the ability to communicate with collaborators on projects outside the abilities of a single individual `we go further together`
-* Be able to properly constrain the scope of an original project to a level suitable for completion within the available time `project time estimation`
-* Demonstrate understanding of various technologies used to create connected and interactive art works `know your tools`
-* Develop extensive documentation for all projects `show your work`
-* Be able to communicate the intent and expression of the things you create `talk about your work`
+* **make stuff** - Be able to complete functional interactive art works composing of original hardware and software components
+* **sketch ability** - Demonstrate the rapid prototyping of new ideas in code and in hardware
+* **remixing / extending** - Demonstrate the practice of creating new work based on existing projects
+* **we go further together** - Demonstrate the ability to communicate with collaborators on projects outside the abilities of a single individual
+* **project time estimation** - Be able to properly constrain the scope of an original project to a level suitable for completion within the available time
+* **know your tools** - Demonstrate understanding of various technologies used to create connected and interactive art works
+* **show your work** - Develop extensive documentation for all projects
+* **talk about your work** - Be able to communicate the intent and expression of the things you create
 
 ## Supplies / Must Haves
 
