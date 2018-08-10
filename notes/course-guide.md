@@ -5,7 +5,7 @@ NOTE: This document is a work in progress. The current version is available at [
 | **instructor**     | Adam Bachman                                    |
 | **pronouns**       | he / him                                        |
 | **email**          | adam.bachman@gmail.com                          |
-| **github / twitter** | [@abachman](https://github.com/abachman) / [@abachman](https://twitter.com) |
+| **links** | [github/abachman](https://github.com/abachman), [twitter/abachman](https://twitter.com), [personal](https://adambachman.org) |
 | **course website** | https://github.com/abachman/intermedia-studio-3 |
 
 
