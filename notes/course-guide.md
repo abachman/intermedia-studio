@@ -85,15 +85,13 @@ All assignments will be project based. Most projects are small: one week. Two pr
 
 A more complete outline is available in `notes/outline.md`.
 
-# Boilerplate
+# MICA Notices
 
 ## Attendance
 
 You are expected to be at every class unless you have a valid excuse.
 
 Arriving more than 15 minutes after class start is counted as an unexcused absence. Two undexcused absences will result in a reduced grade. Three unexcused absences will result in a failing grade for the course, as per MICA policy.
-
-# MICA Notifications
 
 ## Academic Accommodations - Americans
 
