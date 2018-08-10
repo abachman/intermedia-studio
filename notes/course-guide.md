@@ -1,6 +1,7 @@
 NOTE: This document is a work in progress. The current version is available at: https://github.com/abachman/intermedia-studio-3 under `notes/course-guide.md`
 
 *instructor*: Adam Bachman <br/>
+*pronouns*: he / him <br/>
 *email*: adam.bachman@gmail.com <br/>
 *github/twitter*: @abachman
 
