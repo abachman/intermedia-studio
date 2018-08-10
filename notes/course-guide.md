@@ -15,19 +15,18 @@ The goal of this course is to invite students to explore and develop their studi
 
 Through the introduction of technical concepts and creative software and hardware platforms, we will be building complete projects and inventing new technologies to explore connection, detection, measurement, interaction, security, movement, light, sound, and control across physical and virtual boundaries.
 
-Through the use of smaller and more frequent projects rather than larger, singular works, we will have more opportunities to play, fail, learn, and grow in both understanding and ability.
-
+Through the use of small and frequent projects in addition to sevearl larger, singular works, we will have more opportunities to play, fail, learn, and grow in both understanding and ability. We do not understand these tools merely by hearing stories about them, we understand them by using them. Most in-class time will be spent designing, building, and fixing projects.
 
 ## Standards / Expectations
 
-* Be able to complete functional interactive art works composing of original hardware and software components (make stuff)
-* Demonstrate the rapid prototyping of new ideas in code and in hardware (sketch ability)
-* Demonstrate the practice of creating new work based on existing projects (remixing / extending)
-* Demonstrate the ability to communicate with collaborators on projects outside the abilities of a single individual (we go further together)
-* Be able to properly constrain the scope of an original project to a level suitable for completion within the available time (project time estimation)
-* Demonstrate understanding of various technologies used to create connected and interactive art works (know your tools)
-* Develop extensive documentation for all projects (show your work)
-* Be able to communicate the intent and expression of the things you create (talk about your work)
+* Be able to complete functional interactive art works composing of original hardware and software components `make stuff`
+* Demonstrate the rapid prototyping of new ideas in code and in hardware `sketch ability`
+* Demonstrate the practice of creating new work based on existing projects `remixing / extending`
+* Demonstrate the ability to communicate with collaborators on projects outside the abilities of a single individual `we go further together`
+* Be able to properly constrain the scope of an original project to a level suitable for completion within the available time `project time estimation`
+* Demonstrate understanding of various technologies used to create connected and interactive art works `know your tools`
+* Develop extensive documentation for all projects `show your work`
+* Be able to communicate the intent and expression of the things you create `talk about your work`
 
 ## Supplies / Must Haves
 
