@@ -19,6 +19,7 @@
 `week 010 - Nov 06` Security
 
 * Authentication vs. Authorization https://gumroad.com/l/authzine
+* Voting Software https://xkcd.com/2030/
 
 `week 011 - Nov 13` Low fidelity communication
 

@@ -15,18 +15,20 @@ The goal of this course is to invite students to explore and develop their studi
 
 Through the introduction of technical concepts and creative software and hardware platforms, we will be building complete projects and inventing new technologies to explore connection, detection, measurement, interaction, security, movement, light, sound, and control across physical and virtual boundaries.
 
-Through the use of small and frequent projects in addition to sevearl larger, singular works, we will have more opportunities to play, fail, learn, and grow in both understanding and ability. We do not understand these tools merely by hearing stories about them, we understand them by using them. Most in-class time will be spent designing, building, and fixing projects.
+Through the use of small and frequent projects in addition to several larger works, we will have more opportunities to play, fail, learn, and grow in both understanding and ability. We do not understand these tools merely by hearing stories about them, we understand them by using them. Most in-class time will be spent designing, building, and fixing projects.
 
 ## Goals / Standards / Expectations
 
-* **make stuff** - Be able to complete functional interactive art works composing of original hardware and software components
-* **sketch ability** - Demonstrate the rapid prototyping of new ideas in code and in hardware
-* **remixing / extending** - Demonstrate the practice of creating new work based on existing projects
-* **we go further together** - Demonstrate the ability to communicate with collaborators on projects outside the abilities of a single individual
-* **project time estimation** - Be able to properly constrain the scope of an original project to a level suitable for completion within the available time
-* **know your tools** - Demonstrate understanding of various technologies used to create connected and interactive art works
-* **show your work** - Develop extensive documentation for all projects
-* **talk about your work** - Be able to communicate the intent and expression of the things you create
+By the end of this course, students will be able to...
+
+* Complete functional interactive art works composing of original hardware and software components - **make stuff**
+* Demonstrate the rapid prototyping of new ideas in code and in hardware - **sketch ability**
+* Demonstrate the practice of creating new work based on existing projects - **remixing / extending**
+* Demonstrate the ability to communicate with collaborators on projects outside the abilities of a single individual - **we go further together**
+* Properly constrain the scope of an original project to a level suitable for completion within the available time - **project time estimation**
+* Demonstrate understanding of various technologies used to create connected and interactive art works - **know your tools**
+* Develop extensive documentation for all projects - **show your work**
+* Communicate the intent and expression of the things you create - **talk about your work**
 
 ## Supplies / Must Haves
 
@@ -34,32 +36,86 @@ Services and accounts:
 
 * [GitHub account](https://github.com)
 * [Adafruit IO / Adafruit account](https://io.adafruit.com)
-* A backup service, such as Dropbox or Backblaze -- (there is zero tolerance for lost documentation and associated project artifacts code. Always backup your work.)
+* A backup service, such as Dropbox or Backblaze -- (there is zero tolerance for lost documentation and associated project artifacts code. Always Be Saving)
 * [Glitch account](https://glitch.com)
 * [IS3 Slack workgroup account](https://join.slack.com/t/mica-is3-fall-2018/shared_invite/enQtNDEzMTk5MDU3NjM3LTI0NWU0ODYzMTg4N2Q1MDhhZTMwNzYyYWQxN2U3YjMyNmM2ZjdhY2JhNjFhMDAzZTU4NWY5MzE1NzhhY2VkMWI) *contact adam.bachman@gmail.com for an invite if the invitation link doesn't work*
 
 Applications:
 
 * [GitHub Desktop](https://desktop.github.com) (Mac app)
-* [Arduino for Mac](https://www.arduino.cc/en/Guide/MacOSX)
-* Atom, Visual Studio Code, or other text editor of your choice
+* [Arduino](https://www.arduino.cc/en/Guide/MacOSX)
 * Google Chrome (Browser)
+* [Processing](https://processing.org/download/)
+* Atom, Visual Studio Code, or other text editor of your choice
 
 These are all to start with. As we come across an interesting new service or app, we may add it to the list.
 
+Materials:
+
+* Budget around $50 for materials to use in projects
+* Basic sketching / paper prototyping supplies
+
 ## Grading
 
-{rubric goes here}
+Your grade will be based on the following:
 
-## Assignments
+- 10% Attendance
+- 30% Participation / in class work
+- 60% Projects and documentation
 
-All assignments will be project based. Most projects are small: one week. Two projects will be medium, one project will be large.
+## Projects
 
-{full assignments description goes here}
+All assignments will be project based. Most projects are small, one or two weeks. Two projects will be medium, one project will be large.
+
+Projects may be completed independently or in groups of four or fewer people. You must complete at least two projects independently.
+
+Projects will consist of an original creative work, hardware and software, with an interactive component. Additionally, all projects must be fully documented. Many projects will also include a brief presentation and/or critique.
+
+## Documentation
+
+What should documentation include?
+
+- Photos of the finished piece and brief (30s to 1m) video of interaction.
+- The final, running version of all source code.
+- A rough circuit diagram (descriptive, not technically accurate)
+- A description of the data flow.
+- Written description of the project.
+- Acknowledgements / references, all references must include links
+    - inspiration
+    - any projects you borrowed code from w/ the license under which it was shared
+    - team members
+- A breakdown of each team members contributions.
+
+Additionally, you may wish to include:
+
+- Written description of your process. (idea vs execution)
+- A basic "time card" breaking out time spent on:
+    - Planning
+    - Implementing
+    - Polishing
+    - Documenting
+- A list of stumbling blocks or lingering questions.
+- Ideas / plans for continuing the project (where next? how would you do it differently?)
+
+Documentation may be the only evidence that you completed the project that lasts beyond this class. It's part of how I will be able to evaluate your work as the instructor, but more importantly, it is how reflect on what you've done, grow as an artist / human being making things, and will hopefully be useful to your career after this class.
+
+Not to mention that future projects may require parts from previous ones. That's great! Don't be too precious with old work. Take a pic, write the story, move on.
+
+Unless otherwise specified, project documentation may be submitted via Google Drive or GitHub.
+
+All projects must be submitted on the day they are due before class begins.
+
+## Backups / File Storage
+
+You are expected to maintain a backup system for all your work for this class. Loss of a project due to lost computer or hard drive is, unfortunately, not an acceptable excuse.
+
+I recommend Dropbox, but GitHub also works.
 
 ## Class participation
 
-{explanation and description of class participation goes here}
+> As a citizen of the classroom, you are expected to actively participate in class exercises, discussions, and critiques. In addition, this class is intended to function as a peer learning environment. I encourage you to support and talk to one another during class, particularly if you are experiencing any difficulty.
+
+(via [Sam Sheffield](http://samsheffield.com/pandas14/docs/syllabus.pdf))
 
 ## Course Outline
 
@@ -81,6 +137,8 @@ All assignments will be project based. Most projects are small: one week. Two pr
 * `week 015 - Dec 11` The Future
 
 A more complete outline is available in `notes/outline.md`.
+
+NOTE: as the semester progresses, this outline is subject to change as needed.
 
 # MICA Notices
 
