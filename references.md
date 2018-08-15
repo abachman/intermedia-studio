@@ -21,9 +21,15 @@
 * Authentication vs. Authorization https://gumroad.com/l/authzine
 * Voting Software https://xkcd.com/2030/
 
-`week 011 - Nov 13` Low fidelity communication
+`week 011 - Nov 13` Artificial Intelligence
+
+* Twitter bots https://cheapbotsdonequick.com/
+* TensorFlow.js https://js.tensorflow.org/
+* Google Seedbank https://tools.google.com/seedbank/
 
 `week 012 - Nov 20` Escape rooms and other useful nonsense
+
+* The original Furby source code http://www.seanriddle.com/furbysource.pdf
 
 `week 013 - Nov 27` 50 year projects
 
@@ -39,6 +45,7 @@
 **Organizations**
 
 * Gray Area Foundation
+    * [Immersive: Studio Art Course in Computer Science](https://grayarea.org/creative-development/education/immersive-application/)
 * eyebeam
 * rhizome
 * ITP
