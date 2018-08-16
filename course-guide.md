@@ -136,7 +136,7 @@ I recommend Dropbox, but GitHub also works.
 * `week 014 - Dec 04` Alternatives to traditional education
 * `week 015 - Dec 11` The Future
 
-A more complete outline is available in `notes/outline.md`.
+A more complete outline is available in `outline.md`.
 
 NOTE: as the semester progresses, this outline is subject to change as needed.
 

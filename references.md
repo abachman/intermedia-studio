@@ -2,7 +2,14 @@
 
 `week 002 - Sep 04` Full stack overview, connecting and communication
 
+* Javascript quiz https://www.w3schools.com/quiztest/quiztest.asp?Qtest=JavaScript
+* HTML quiz https://www.w3schools.com/quiztest/quiztest.asp?Qtest=HTML
+* [Glitch](https://glitch.com)
+    * Board Connection Check - https://glitch.com/~board-connection-check
+
 `week 003 - Sep 11` APIs and protocols
+
+* Webhook Visualizer - https://glitch.com/~webhook-visualizer
 
 `week 004 - Sep 18` Rapid prototyping
 
