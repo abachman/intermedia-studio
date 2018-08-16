@@ -26,6 +26,8 @@
 * Twitter bots https://cheapbotsdonequick.com/
 * TensorFlow.js https://js.tensorflow.org/
 * Google Seedbank https://tools.google.com/seedbank/
+* Live text-to-image generation: https://twitter.com/c_valenzuelab/status/1029716799934357505
+    * https://runwayml.com/ "Runway is a toolkit that adds artificial intelligence capabilities to design and creative platforms."
 
 `week 012 - Nov 20` Escape rooms and other useful nonsense
 
