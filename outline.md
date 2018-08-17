@@ -1,4 +1,4 @@
-*(this outline is subject to change as the )*
+*(this outline is subject to change as the semester progresses)*
 
 ## OUTLINE
 
@@ -6,6 +6,8 @@
     * Introductions, surveys
     * Setup and service descriptions
     * First sketches / commits
+    * Project journal
+    * Cheat sheets
 * week 002 - September 04
     * Full stack overview
     * Connecting to WiFi and the Internet

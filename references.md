@@ -13,6 +13,8 @@
 
 `week 004 - Sep 18` Rapid prototyping
 
+* 100:10:1 method - https://nickbentley.games/2014/05/12/the-100-10-1-method-for-game-design/
+
 `week 005 - Sep 25` Feedback loops
 
 `week 006 - Oct 02` Randomness and determinism
@@ -27,6 +29,7 @@
 
 * Authentication vs. Authorization https://gumroad.com/l/authzine
 * Voting Software https://xkcd.com/2030/
+* Corrupting Data / Glitch Art
 
 `week 011 - Nov 13` Artificial Intelligence
 
