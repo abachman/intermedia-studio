@@ -145,7 +145,7 @@ I recommend Dropbox but GitHub also works.
 | `008` | Oct 23 | The Internet of Things Sucks!                      |               | Start         |               |
 | `009` | Oct 30 | *Project work session*                             |               | Progress      |               |
 | `010` | Nov 06 | Security, Hidden devices                           |               | Crit          |               |
-| `011` | Nov 13 | Low fidelity communication                         |               | Documentation | Start         |
+| `011` | Nov 13 | Artificial Intelligence                            |               | Documentation | Start         |
 | `012` | Nov 20 | Escape rooms and other useful nonsense             |               |               | Progress      |
 | `013` | Nov 27 | *Project work session*                             |               |               | Progress      |
 | `014` | Dec 04 | 50 year projects                                   |               |               | Crit          |
