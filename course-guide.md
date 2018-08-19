@@ -57,59 +57,13 @@ Materials:
 
 ## Grading
 
-Your grade will be based on the following:
+Your grade will be based on the following breakdown:
 
 - 10% Attendance
-- 30% Participation / in class work
-- 60% Projects and documentation
-
-## Projects
-
-All assignments will be project based. Most projects are small, one or two weeks. Two projects will be medium, one project will be large.
-
-Projects may be completed independently or in groups of four or fewer people. You must complete at least two projects independently.
-
-Projects will consist of an original creative work, hardware and software, with an interactive component. Additionally, all projects must be fully documented. Many projects will also include a brief presentation and/or critique.
-
-## Documentation
-
-What should documentation include?
-
-- Photos of the finished piece and brief (30s to 1m) video of interaction.
-- The final, running version of all source code.
-- A rough circuit diagram (descriptive, not technically accurate)
-- A description of the data flow.
-- Written description of the project.
-- Acknowledgements / references, all references must include links
-    - inspiration
-    - any projects you borrowed code from w/ the license under which it was shared
-    - team members
-- A breakdown of each team members contributions.
-
-Additionally, you may wish to include:
-
-- Written description of your process. (idea vs execution)
-- A basic "time card" breaking out time spent on:
-    - Planning
-    - Implementing
-    - Polishing
-    - Documenting
-- A list of stumbling blocks or lingering questions.
-- Ideas / plans for continuing the project (where next? how would you do it differently?)
-
-Documentation may be the only evidence that you completed the project that lasts beyond this class. It's part of how I will be able to evaluate your work as the instructor, but more importantly, it is how reflect on what you've done, grow as an artist / human being making things, and will hopefully be useful to your career after this class.
-
-Not to mention that future projects may require parts from previous ones. That's great! Don't be too precious with old work. Take a pic, write the story, move on.
-
-Unless otherwise specified, project documentation may be submitted via Google Drive or GitHub.
-
-All projects must be submitted on the day they are due before class begins.
-
-## Backups / File Storage
-
-You are expected to maintain a backup system for all your work for this class. Loss of a project due to lost computer or hard drive is, unfortunately, not an acceptable excuse.
-
-I recommend Dropbox, but GitHub also works.
+- 30% In class work and Participation
+- 20% Project 1: work and documentation
+- 20% Project 2: work and documentation
+- 20% Project 3: work and documentation
 
 ## Class participation
 
@@ -117,28 +71,89 @@ I recommend Dropbox, but GitHub also works.
 
 (via [Sam Sheffield](http://samsheffield.com/pandas14/docs/syllabus.pdf))
 
+## In class work
+
+Some class sessions may include small in-class projects or tasks. You will be expected to offer your full attention to the task at hand. For in class work (unrelated to the major projects), you must submit: an image of the work, the code in its final state, and a brief description.
+
+## Projects
+
+All assignments for this course are project based. Beyond the in class projects, there will be three projects that span multiple weeks.
+
+Large projects may be completed independently or in groups of four or fewer people. Collaboration is great, but you are strongly encouraged to do at least one large project solo.
+
+Projects will consist of an original creative work, hardware and software, with an interactive component. All projects must be documented. The three large projects will also include a brief in class presentation and critique.
+
+Projects grades will be assigned based on a combination of:
+
+- 10% the in-progress status of the work
+- 60% the final completed work
+- 30% documentation
+
+## Documentation
+
+What should documentation include?
+
+- Photos of the finished piece and brief (30s to 1m) video of interaction.
+- Written description of the project. Less than a page.
+- The final, running version of all source code.
+- A rough circuit diagram. Descriptive, doesn't need to be technically precise. Sketch, not schematic.
+- A description of the data flow.
+- A data privacy / ethics statement, if applicable.
+- Acknowledgements and references. All references must include links. This includes:
+    - inspiration
+    - any projects you borrowed code from w/ the license under which it was shared
+- A breakdown of each team members' contributions.
+
+Additionally, you may wish to include:
+
+- Description of your process.
+- Discussion of idea vs execution / intention vs. outcome.
+- Basic "time card" breaking out time spent on:
+    - Planning
+    - Implementing
+    - Polishing
+    - Documenting
+- List of stumbling blocks or lingering questions.
+- Ideas for continuing the project. Where next? How might you do it differently?
+
+Documentation may be the only evidence that you completed the project that lasts beyond this class. First, it's of how I will be able to evaluate your work as the instructor. More importantly, it is how you reflect on what you've done, how you grow as an artist / human being making things, and it will be useful to your career beyond this class.
+
+Also, future projects may require parts from previous ones. That's great! Don't be too precious with old work. Take a pic, write the story, move on.
+
+Unless otherwise specified, all projects must be completed before the start of class on the day they are due.
+
+Unless otherwise specified, project documentation must be submitted via Google Drive or GitHub. Documentation will be due the week after project presentations.
+
+## Backups / File Storage
+
+You are expected to maintain a backup system for all your work for this class. Loss of a project due to lost computer, lost flash drive, or hard drive is, unfortunately, not an acceptable excuse.
+
+I recommend Dropbox but GitHub also works.
+
 ## Course Outline
 
-* `week 001 - Aug 28` Introductions, surveys, setup
-* `week 002 - Sep 04` Full stack overview, connecting and communication
-* `week 003 - Sep 11` APIs and protocols
-* `week 004 - Sep 18` Rapid prototyping
-* `week 005 - Sep 25` Feedback loops
-* `week 006 - Oct 02` Randomness and determinism
-* `week 007 - Oct 09` The Smart Home!
-* *fall break*
-* `week 008 - Oct 23` The Internet of Things Sucks!
-* `week 009 - Oct 30` Hidden devices
-* `week 010 - Nov 06` Security
-* `week 011 - Nov 13` Low fidelity communication
-* `week 012 - Nov 20` Escape rooms and other useful nonsense
-* `week 013 - Nov 27` 50 year projects
-* `week 014 - Dec 04` Alternatives to traditional education
-* `week 015 - Dec 11` The Future
+| WEEK  | DATE   | TOPIC                                              | PROJECT 1     | PROJECT 2     | PROJECT 3     |
+| ----- | ------ | -------------------------------------------------- | ------------- | ------------- | ------------- |
+| `001` | Aug 28 | Introductions, surveys, setup                      |               |               |               |
+| `002` | Sep 04 | Full stack overview / connecting and communication |               |               |               |
+| `003` | Sep 11 | APIs and protocols                                 |               |               |               |
+| `004` | Sep 18 | Rapid prototyping                                  | Start         |               |               |
+| `005` | Sep 25 | *Project work session*                             | Progress      |               |               |
+| `006` | Oct 02 | Feedback loops / Randomness and determinism        | Crit          |               |               |
+| `007` | Oct 09 | The Smart Home!                                    | Documentation |               |               |
+|       | Oct 16 | **FALL BREAK**                                     |               |               |               |
+| `008` | Oct 23 | The Internet of Things Sucks!                      |               | Start         |               |
+| `009` | Oct 30 | *Project work session*                             |               | Progress      |               |
+| `010` | Nov 06 | Security, Hidden devices                           |               | Crit          |               |
+| `011` | Nov 13 | Low fidelity communication                         |               | Documentation | Start         |
+| `012` | Nov 20 | Escape rooms and other useful nonsense             |               |               | Progress      |
+| `013` | Nov 27 | *Project work session*                             |               |               | Progress      |
+| `014` | Dec 04 | 50 year projects                                   |               |               | Crit          |
+| `015` | Dec 11 | Alternatives to traditional education / The Future |               |               | Documentation |
 
-A more complete outline is available in `outline.md`.
+A more complete outline and additional list of topics is available in `outline.md`.
 
-NOTE: as the semester progresses, this outline is subject to change as needed.
+NOTE: as the semester progresses, this outline is subject to change as needed based on technical requirements or class interest.
 
 # MICA Notices
 
