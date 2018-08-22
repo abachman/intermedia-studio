@@ -2,7 +2,7 @@
 
 MICA Intermedia Studio - Fall 2018 - Course notes and associated materials
 
-[course-guide.md](https://github.com/abachman/intermedia-studio/blob/master/course-guide.md) - The Syllabus™
+[syllabus.md](https://github.com/abachman/intermedia-studio/blob/master/syllabus.md) - The Syllabus™
 
 [outline.md](https://github.com/abachman/intermedia-studio/blob/master/outline.md) - Rough calendar of the semester and stuff I intend to cover in class with references.
 
