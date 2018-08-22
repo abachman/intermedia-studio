@@ -1,4 +1,4 @@
-NOTE: This document is a work in progress. The current version is available at [the course website](https://github.com/abachman/intermedia-studio-3) under `notes/course-guide.md`
+NOTE: This document is a work in progress. The current version is available at [the course website](https://github.com/abachman/intermedia-studio-3) under `syllabus.md`
 
 |                  |                                                          |
 | ---              | ---                                                      |
