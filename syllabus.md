@@ -1,4 +1,4 @@
-The current version of this document is available at https://github.com/abachman/intermedia-studio-3 under `syllabus.md`
+The current version of this document is available at https://github.com/abachman/intermedia-studio under `syllabus.md`
 
 # Interactive Arts 3 - Intermedia Studio
 
@@ -11,8 +11,8 @@ The current version of this document is available at https://github.com/abachman
 | **instructor**   | Adam Bachman                                             |
 | **pronouns**     | he / him                                                 |
 | **email**        | adam.bachman@gmail.com                                   |
-| **links**          | [github](https://github.com/abachman), [twitter](https://twitter.com/abachman), [personal](https://adambachman.org) |
-| **course website** | https://github.com/abachman/intermedia-studio-3            |
+| **links**        | [github](https://github.com/abachman), [twitter](https://twitter.com/abachman), [personal](https://adambachman.org) |
+| **website**      | https://github.com/abachman/intermedia-studio          |
 
 
 ## Description
