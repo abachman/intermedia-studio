@@ -37,7 +37,7 @@ By the end of this course, students will be able to...
 * Demonstrate the ability to communicate with collaborators on projects outside the abilities of a single individual - **we go further together**
 * Properly constrain the scope of an original project to a level suitable for completion within the available time - **project time estimation**
 * Demonstrate understanding of various technologies used to create connected and interactive art works - **know your tools**
-* Develop extensive documentation for all projects - **show your work**
+* Develop complete documentation for all projects - **show your work**
 * Communicate the intent and expression of the things you create - **talk about your work**
 
 ## Supplies / Must Haves
