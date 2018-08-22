@@ -1,4 +1,6 @@
-NOTE: This document is a work in progress. The current version is available at [the course website](https://github.com/abachman/intermedia-studio-3) under `syllabus.md`
+The current version of this document is available at https://github.com/abachman/intermedia-studio-3 under `syllabus.md`
+
+# Interactive Arts 3 - Intermedia Studio
 
 |                  |                                                          |
 | ---              | ---                                                      |
