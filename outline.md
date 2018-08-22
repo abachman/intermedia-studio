@@ -18,16 +18,16 @@ First things first!
 
 Full stack overview.
 
-* Connecting to WiFi and the Internet
+* Connecting devices to WiFi and the Internet
 * Basic communication
     * machine - human
     * human - machine
     * machine - machine
+* Web services (glue everything together)
+
 
 References:
 
-* Javascript quiz https://www.w3schools.com/quiztest/quiztest.asp?Qtest=JavaScript
-* HTML quiz https://www.w3schools.com/quiztest/quiztest.asp?Qtest=HTML
 * [Glitch](https://glitch.com)
     * Board Connection Check - https://glitch.com/~board-connection-check
 
@@ -74,9 +74,11 @@ Topic: Feedback loops, Randomness and determinism
 
 References:
 
-* New Interfaces for Musical Expression - NIME
+* New Interfaces for Musical Expression - http://www.nime.org/
 * Generative art!
     * http://www.galaxykate.com/pdfs/galaxykate-zine-encyclopedia.pdf
+* large scale social systems
+    * https://en.wikipedia.org/wiki/Social_Credit_System
 
 
 #### week 007 - October 09
@@ -98,6 +100,7 @@ The Internet of Things Sucks!
 References:
 
 * Internet of Shit - https://twitter.com/internetofshit
+* Connected sex toys == security nightmare - https://www.wired.co.uk/article/teledildonics-hacking-sex-toys
 
 *START PROJECT 2*
 
@@ -123,12 +126,12 @@ Security!
 * Identity, authority, and authenticity
 * making and breaking secure systems
 
-
 References:
 
 * Authentication vs. Authorization - https://gumroad.com/l/authzine
 * Voting Software - https://xkcd.com/2030/
 * Corrupting Data / Glitch Art
+* Open Privacy Research Society - https://openprivacy.ca/
 
 
 #### week 011 - November 13
@@ -224,28 +227,4 @@ Spaces
 * [The Foundery]()
 * [Baltimore Node]()
 
-
-## UNSCHEDULED TOPICS
-
-* Chaos, disorder, and illegal stuff. Hacks, pranks, gags, nefarious uses.
-* Other peoples' projects. Hackster, Hackaday, Instructables, etc.
-* Costume and wearable connectivity.
-* Transit and transportation.
-* Cellular, mesh networks, and other radio options. Radical mobility.
-* Brains and brain-like systems. Let's all pretend computers are smart! (AI, machine learning)
-* Futzing around with the Raspberry Pi. Putting little whole-ass computers into things.
-* Code as artifact and performance tool. Livecoding!
-* The military loves this stuff. Just goes bananas for it.
-* #BadgeLife. PCB design, participatory culture, future. Fashion by any other name...
-* Artscape, Light City, and the public exhibition of this kind of work.
-* Software Defined Radio (SDR). The radio reality we occupy.
-* Connecting Unity projects!
-* Blockchains, distributed ledgers, and decentralization.
-* Teleoperation. Finding the limits of robotics and remote control.
-* Controllers and alternative control schemes. alt.ctrl.GDC
-* Bluetooth!
-
-## OTHER INTERESTING STUFF
-
-* [adjacent mag](https://itp.nyu.edu/adjacent/)
 
