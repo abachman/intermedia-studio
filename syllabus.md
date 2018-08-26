@@ -50,15 +50,13 @@ Services and accounts:
 * [Adafruit IO / Adafruit account](https://io.adafruit.com)
 * A backup service, such as Dropbox or Backblaze -- (there is zero tolerance for lost documentation and associated project artifacts code. Always Be Saving)
 * [Glitch account](https://glitch.com)
-* [IS3 Slack workgroup account](https://join.slack.com/t/mica-is3-fall-2018/shared_invite/enQtNDEzMTk5MDU3NjM3LTI0NWU0ODYzMTg4N2Q1MDhhZTMwNzYyYWQxN2U3YjMyNmM2ZjdhY2JhNjFhMDAzZTU4NWY5MzE1NzhhY2VkMWI) *contact adam.bachman@gmail.com for an invite if the invitation link doesn't work*
+* [Intermedia Studio Slack](https://join.slack.com/t/mica-intermedia/shared_invite/enQtNDIzMzUxMTk4OTc4LTQ5Y2M3YjQ1YzViZGM5NTA3NDk1NTVlZThjZmQxMzU2MjNkYTI0MzcyMDdiMDM1NzFlNWRmZDU0MTE3NTUzMzc) *contact adam.bachman@gmail.com for an invite if the invitation link doesn't work*
 
 Applications:
 
 * [GitHub Desktop](https://desktop.github.com) (Mac app)
 * [Arduino](https://www.arduino.cc/en/Guide/MacOSX)
 * Google Chrome (Browser)
-* [Processing](https://processing.org/download/)
-* Atom, Visual Studio Code, or other text editor of your choice
 
 These are all to start with. As we come across an interesting new service or app, we may add it to the list.
 
