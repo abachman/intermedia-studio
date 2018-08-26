@@ -48,7 +48,7 @@ Services and accounts:
 
 * [GitHub account](https://github.com)
 * [Adafruit IO / Adafruit account](https://io.adafruit.com)
-* A backup service, such as Dropbox or Backblaze -- (there is zero tolerance for lost documentation and associated project artifacts code. Always Be Saving)
+* A backup service, such as Dropbox or Backblaze -- (there is zero tolerance for lost projects or documentation. Always Be Saving)
 * [Glitch account](https://glitch.com)
 * [Intermedia Studio Slack](https://join.slack.com/t/mica-intermedia/shared_invite/enQtNDIzMzUxMTk4OTc4LTQ5Y2M3YjQ1YzViZGM5NTA3NDk1NTVlZThjZmQxMzU2MjNkYTI0MzcyMDdiMDM1NzFlNWRmZDU0MTE3NTUzMzc) *contact adam.bachman@gmail.com for an invite if the invitation link doesn't work*
 
