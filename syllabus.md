@@ -56,6 +56,7 @@ Applications:
 
 * [GitHub Desktop](https://desktop.github.com) (Mac app)
 * [Arduino](https://www.arduino.cc/en/Guide/MacOSX)
+    * [ESP8266 board support](https://learn.adafruit.com/adafruit-feather-huzzah-esp8266/using-arduino-ide#install-the-esp8266-board-package-6-7)
 * Google Chrome (Browser)
 
 These are all to start with. As we come across an interesting new service or app, we may add it to the list.

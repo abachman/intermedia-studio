@@ -13,6 +13,8 @@ First things first!
 * Project journal
 * Cheat sheets
 
+References:
+* [Arduino support for the ESP8266](https://learn.adafruit.com/adafruit-feather-huzzah-esp8266/using-arduino-ide#install-the-esp8266-board-package-6-7)
 
 #### week 002 - September 04
 
@@ -28,9 +30,9 @@ Full stack overview.
 
 References:
 
+* [Arduino JSON library](https://arduinojson.org/v5/doc/installation/) (install version 5)
 * [Glitch](https://glitch.com)
     * Board Connection Check - https://glitch.com/~board-connection-check
-
 
 #### week 003 - September 11
 
