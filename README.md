@@ -11,3 +11,5 @@ MICA Intermedia Studio - Fall 2018 - Course notes and associated materials
 [unscheduled.md](https://github.com/abachman/intermedia-studio/blob/master/unscheduled.md) - Stuff I don't intend to cover at length, but you can ask me about.
 
 [examples/](https://github.com/abachman/intermedia-studio/tree/master/examples/) - Example code for classes and stuff built during class.
+
+You can also find the class on Canvas at https://mica.instructure.com/courses/4138.
