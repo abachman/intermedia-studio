@@ -1,3 +1,6 @@
+
+*From Andy Mangold's [Graphic Design 1 class notes](https://github.com/andymangold/gd1), retrieved Aug 15, 2018. Shared under the MIT License.*
+
 ## Guiding Principles
 
 - Only offer criticism in the context of the project's intent. Do not give critique without first asking questions about the goal of the piece.
@@ -11,5 +14,3 @@
 - Always ask questions, but be aware that the work must ultimately stand on its own. Questions should be used to gain insight into the piece's intent to offer better feedback, not as a crutch to explain work that cannot communicate effectively on its own.
 - When in doubt, simply 'state the obvious' by describing the piece aloud. Though this may sound silly at first, it can actually be quite enlightening.
 
-
-From Andy Mangold's [Graphic Design 1 class notes](https://github.com/andymangold/gd1), retrieved Aug 15, 2018. Shared under the MIT License.
