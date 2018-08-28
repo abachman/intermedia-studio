@@ -13,7 +13,7 @@ The current version of this document is available at https://github.com/abachman
 | **email**        | adam.bachman@gmail.com                                   |
 | **links**        | [github](https://github.com/abachman), [twitter](https://twitter.com/abachman), [personal](https://adambachman.org) |
 | **website**      | https://github.com/abachman/intermedia-studio          |
-| **survey** | https://goo.gl/forms/4xm7dS4LNJtriDgF2 |
+| **survey** | https://docs.google.com/forms/d/e/1FAIpQLSeoIg75HfCEQDvR2gwa1IXyX6urXks0lzMo1DC_ipGRRzA0cg/viewform?usp=sf_link |
 
 
 ## Description
