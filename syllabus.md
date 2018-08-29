@@ -8,13 +8,18 @@ The current version of this document is available at https://github.com/abachman
 | **course**       | 340.01 IA3: Intermedia Studio                            |
 | **prerequisite** | Any Interactive Arts course, or permission of instructor |
 | **schedule**     | Fall 2018, Tuesday 9am - 3pm                             |
-| **instructor**   | Adam Bachman                                             |
-| **pronouns**     | he / him                                                 |
-| **email**        | adam.bachman@gmail.com                                   |
-| **links**        | [github](https://github.com/abachman), [twitter](https://twitter.com/abachman), [personal](https://adambachman.org) |
 | **website**      | https://github.com/abachman/intermedia-studio          |
-| **survey** | https://docs.google.com/forms/d/e/1FAIpQLSeoIg75HfCEQDvR2gwa1IXyX6urXks0lzMo1DC_ipGRRzA0cg/viewform?usp=sf_link |
+| **survey** | [link](https://docs.google.com/forms/d/e/1FAIpQLSeoIg75HfCEQDvR2gwa1IXyX6urXks0lzMo1DC_ipGRRzA0cg/viewform?usp=sf_link) |
 
+## Instructor
+
+|                  |                                       |
+| ---              | ---                                   |
+| **name**         | Adam Bachman                          |
+| **pronouns**     | he / him                              |
+| **email**        | adam.bachman@gmail.com                |
+| **links**        | [github](https://github.com/abachman), [twitter](https://twitter.com/abachman), [personal](https://adambachman.org) |
+| **office hours** | Fridays, 2 - 4pm at [OpenWorks](https://openworksbmore.com). Able to meet on campus by appointment. |
 
 ## Description
 
