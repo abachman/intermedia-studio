@@ -30,6 +30,7 @@ Full stack overview.
 
 References:
 
+* [Base CS guide to computer science topics](https://medium.com/basecs)
 * [Arduino JSON library](https://arduinojson.org/v5/doc/installation/) (install version 5)
 * [Glitch](https://glitch.com)
     * Board Connection Check - https://glitch.com/~board-connection-check
