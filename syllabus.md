@@ -8,8 +8,8 @@ The current version of this document is available at https://github.com/abachman
 | **course**       | 340.01 IA3: Intermedia Studio                            |
 | **prerequisite** | Any Interactive Arts course, or permission of instructor |
 | **schedule**     | Fall 2018, Tuesday 9am - 3pm                             |
-| **website**      | https://github.com/abachman/intermedia-studio          |
-| **survey** | [link](https://docs.google.com/forms/d/e/1FAIpQLSeoIg75HfCEQDvR2gwa1IXyX6urXks0lzMo1DC_ipGRRzA0cg/viewform?usp=sf_link) |
+| **website**      | https://github.com/abachman/intermedia-studio            |
+| **survey**       | [link](https://docs.google.com/forms/d/e/1FAIpQLSeoIg75HfCEQDvR2gwa1IXyX6urXks0lzMo1DC_ipGRRzA0cg/viewform?usp=sf_link) |
 
 ## Instructor
 
