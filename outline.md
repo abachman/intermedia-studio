@@ -15,6 +15,10 @@ First things first!
 
 References:
 * [Arduino support for the ESP8266](https://learn.adafruit.com/adafruit-feather-huzzah-esp8266/using-arduino-ide#install-the-esp8266-board-package-6-7)
+* #badgelife at DEFCON
+    * [volume 1](https://hackaday.com/2018/08/14/all-the-badges-of-def-con-26-vol-1/)
+    * [volume 2](https://hackaday.com/2018/08/14/all-the-badges-of-def-con-26-vol-2/)
+    * [volume 3](https://hackaday.com/2018/08/14/all-the-badges-of-def-con-26-vol-3/)
 
 #### week 002 - September 04
 
