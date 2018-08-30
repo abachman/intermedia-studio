@@ -22,6 +22,7 @@ References:
 * livecoding
     * [toplap](https://toplap.org)
     * [algorave culture](https://algorave.com/)
+* [presentation slides](https://docs.google.com/presentation/d/1EqRSyy_aTY00lpzaE1xfKKy0ajliVVw5u-pypg0_7YU/edit?usp=sharing)
 
 
 #### week 002 - September 04
