@@ -19,6 +19,10 @@ References:
     * [volume 1](https://hackaday.com/2018/08/14/all-the-badges-of-def-con-26-vol-1/)
     * [volume 2](https://hackaday.com/2018/08/14/all-the-badges-of-def-con-26-vol-2/)
     * [volume 3](https://hackaday.com/2018/08/14/all-the-badges-of-def-con-26-vol-3/)
+* livecoding
+    * [toplap](https://toplap.org)
+    * [algorave culture](https://algorave.com/)
+
 
 #### week 002 - September 04
 
