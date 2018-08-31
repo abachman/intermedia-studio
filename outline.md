@@ -154,6 +154,7 @@ Artificial Intelligence
 
 References:
 
+* http://aiweirdness.com/ - fun with neural nets!
 * Twitter bots https://cheapbotsdonequick.com/
 * TensorFlow.js https://js.tensorflow.org/
 * Google Seedbank https://tools.google.com/seedbank/
