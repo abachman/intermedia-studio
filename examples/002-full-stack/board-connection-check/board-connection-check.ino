@@ -18,7 +18,7 @@
 
 // JSON support
 #include <ArduinoJson.h>
-// Install using the Arduino library manager. Make sure you choose version 5 of the library!
+// Install using the Arduino library manager. Make sure you choose version 5.13.2 of the library!
 // * Search for "json" or "arduino json"
 //
 // Installation guide: https://arduinojson.org/v5/doc/installation/
