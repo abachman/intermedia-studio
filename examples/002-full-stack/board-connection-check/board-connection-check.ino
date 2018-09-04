@@ -1,5 +1,5 @@
-#define WIFI_SSID    "normalnet"
-#define WIFI_PASS    "the bachman family"
+#define WIFI_SSID    "MICA-Open"
+#define WIFI_PASS    ""
 
 // ESP8266 WiFi + HTTP support
 #include "ESP8266WiFi.h"
@@ -73,7 +73,6 @@ void setup() {
   printWifiStatus();
 }
 
-
 void loop() {
   sendPingMessage();
 
@@ -83,22 +82,22 @@ void loop() {
   delay(30000);
 }
 
-// Two different request types: ping and word
 
+// the function that sends data to our web application
 void sendPingMessage() {
-  // building the JSON request body...
+  // build the JSON request body...
   String postData;
   StaticJsonBuffer<512> jsonBuffer;
   JsonObject& root = jsonBuffer.createObject();
 
-  // setting all the key:value pairs
+  // set all the key:value pairs
   root["mac"] = macAddressString();
   root["rssi"] = WiFi.RSSI(); // this may change every time we send data
   root["board_id"] = board_id;
   root["ssid"] = ssid;
   root["ip_address"] = ip.toString();
 
-  // writing the big JSON blob to a String
+  // write the big JSON blob to a String
   root.printTo(postData);
 
   // make sure the outgoing JSON looks good
@@ -121,10 +120,9 @@ void sendPingMessage() {
   Serial.println(response);
 }
 
-// ------------------------------------------------
 
 /*
- * Hardware Information
+ * Hardware information gathering
  */
 
 // Get your board's current WiFi network name (SSID), MAC address, and IP

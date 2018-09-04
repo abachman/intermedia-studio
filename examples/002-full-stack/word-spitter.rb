@@ -1,5 +1,5 @@
 #
-# sends random words to the demo app (words on macOS)
+# sends random words to the demo app (works on macOS)
 #
 
 ID = "word spitter #{rand(10000000)}"

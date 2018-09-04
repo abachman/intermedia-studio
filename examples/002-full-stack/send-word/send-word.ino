@@ -1,5 +1,5 @@
-#define WIFI_SSID    "normalnet"
-#define WIFI_PASS    "the bachman family"
+#define WIFI_SSID    "MICA-Open"
+#define WIFI_PASS    ""
 
 // ESP8266 WiFi + HTTP support
 #include "ESP8266WiFi.h"

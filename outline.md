@@ -40,6 +40,7 @@ Full stack overview.
 References:
 
 * [Base CS guide to computer science topics](https://medium.com/basecs)
+* [Networking! (a zine)](https://jvns.ca/networking-zine.pdf)
 * [Arduino JSON library](https://arduinojson.org/v5/doc/installation/) (install version 5)
 * [Glitch](https://glitch.com)
     * Board Connection Check - https://glitch.com/~board-connection-check
@@ -67,6 +68,7 @@ References:
 
 * 100:10:1 method - https://nickbentley.games/2014/05/12/the-100-10-1-method-for-game-design/
 * Ten Bullets
+* [So You Want To Be A Wizard](https://jvns.ca/wizard-zine.pdf)
 
 *START PROJECT 1*
 
