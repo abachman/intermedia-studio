@@ -1,8 +1,8 @@
 *(this outline is subject to change as the semester progresses)*
 
-## OUTLINE
+# OUTLINE
 
-#### week 001 - August 28
+## week 001 - August 28
 
 First things first!
 
@@ -25,7 +25,7 @@ References:
 * [presentation slides](https://docs.google.com/presentation/d/1EqRSyy_aTY00lpzaE1xfKKy0ajliVVw5u-pypg0_7YU/edit?usp=sharing)
 
 
-#### week 002 - September 04
+## week 002 - September 04
 
 Full stack overview.
 
@@ -36,7 +36,6 @@ Full stack overview.
     * machine - machine
 * Web services (glue everything together)
 
-
 References:
 
 * [Base CS guide to computer science topics](https://medium.com/basecs)
@@ -45,22 +44,23 @@ References:
 * [Glitch](https://glitch.com)
     * Board Connection Check - https://glitch.com/~board-connection-check
 
-#### week 003 - September 11
+
+## week 003 - September 11
 
 APIs and Protocols - Machines saying interesting things to machines in interesting ways.
 
 Looking specifically at:
 
-* Adafruit IO
-* IFTTT
+* [Adafruit IO](https://adafruit.io)
+* [IFTTT](https://ifttt.com)
 
 References:
 
 * `examples/003-api/*` - sketches and code
-* Webhook Visualizer - https://glitch.com/~webhook-visualizer
+* welcome to Adafruit IO guide - https://learn.adafruit.com/welcome-to-adafruit-io
 
 
-#### week 004 - September 18
+## week 004 - September 18
 
 Rapid prototyping!  Exercises, techniques, ideas.
 
@@ -73,7 +73,7 @@ References:
 *START PROJECT 1*
 
 
-#### week 005 - September 25
+## week 005 - September 25
 
 *PROJECT 1 STATUS CHECK*
 
@@ -95,38 +95,38 @@ References:
     * https://en.wikipedia.org/wiki/Social_Credit_System
 
 
-#### week 007 - October 09
+## week 007 - October 09
 
 *PROJECT 1 DOCUMENTATION DUE*
 
 The Smart Home!
 
 
-#### **FALL BREAK** - October 16
+## **FALL BREAK** - October 16
 
 Don't do jack.
 
 
-#### week 008 - October 23
+## week 008 - October 23
 
 The Internet of Things Sucks!
 
 References:
 
 * Internet of Shit - https://twitter.com/internetofshit
-* Connected sex toys == security nightmare - https://www.wired.co.uk/article/teledildonics-hacking-sex-toys
+* Connected sex toys, security nightmare - https://www.wired.co.uk/article/teledildonics-hacking-sex-toys
 
 *START PROJECT 2*
 
 
-#### week 009 - October 30
+## week 009 - October 30
 
 *PROJECT 2 STATUS CHECK*
 
 Work session. Attendance is required, class will be dedicated to working and getting help.
 
 
-#### week 010 - November 06
+## week 010 - November 06
 
 *PROJECT 2 DUE* - Presentations and crit.
 
@@ -148,7 +148,7 @@ References:
 * Open Privacy Research Society - https://openprivacy.ca/
 
 
-#### week 011 - November 13
+## week 011 - November 13
 
 *PROJECT 2 DOCUMENTATION DUE*
 
@@ -166,7 +166,7 @@ References:
 *START PROJECT 3*
 
 
-#### week 012 - November 20
+## week 012 - November 20
 
 Fun, play, creation: getting critical via the trivial
 
@@ -179,14 +179,14 @@ References:
 *PROJECT 3 STATUS CHECK*
 
 
-#### week 013 - November 27
+## week 013 - November 27
 
 *PROJECT 3 STATUS CHECK*
 
 Work session. Attendance is still required, but you will be free to work and get help.
 
 
-#### week 014 - December 04
+## week 014 - December 04
 
 *PROJECT 3 DUE* - Presentations and crit
 
@@ -200,7 +200,7 @@ References:
 * ["Viridian Design Manifesto"](http://www.viridiandesign.org/notes/451-500/the_last_viridian_note.html)
 
 
-#### week 015 - December 11
+## week 015 - December 11
 
 *PROJECT 3 DOCUMENTATION DUE*
 
