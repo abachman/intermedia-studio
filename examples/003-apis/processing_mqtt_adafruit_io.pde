@@ -1,3 +1,7 @@
+/*
+ *  A Processing sketch that connects to Adafruit IO and listens for new
+ *  messages on a feed.
+ */
 // install MQTT via the Processing library manager
 import mqtt.*;
 MQTTClient client;
