@@ -15,12 +15,12 @@
 // edit the config.h tab and enter your Adafruit IO credentials
 // and any additional configuration needed for WiFi, cellular,
 // or ethernet clients.
-#include "config.h"
+#include "secrets.h"
 
 /************************ Example Starts Here *******************************/
 
-// set up the 'counter' feed
-AdafruitIO_Feed *counter = io.feed("counter");
+// set up the 'words' feed
+AdafruitIO_Feed *words = io.feed("words");
 
 void setup() {
 
@@ -39,7 +39,7 @@ void setup() {
   // the handleMessage function (defined below)
   // will be called whenever a message is
   // received from adafruit io.
-  counter->onMessage(handleMessage);
+  words->onMessage(handleMessage);
 
   // wait for an MQTT connection
   // NOTE: when blending the HTTP and MQTT API, always use the mqttStatus
@@ -52,7 +52,7 @@ void setup() {
   // Because Adafruit IO doesn't support the MQTT retain flag, we can use the
   // get() function to ask IO to resend the last value for this feed to just
   // this MQTT client after the io client is connected.
-  counter->get();
+  words->get();
 
   // we are connected
   Serial.println();
@@ -73,9 +73,12 @@ void loop() {
 
 }
 
-// this function is called whenever a 'counter' message
+// this function is called whenever a 'words' message
 // is received from Adafruit IO. it was attached to
-// the counter feed in the setup() function above.
+// the words feed in the setup() function above.
+
+
+
 void handleMessage(AdafruitIO_Data *data) {
 
   Serial.print("received <- ");
