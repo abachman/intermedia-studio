@@ -115,6 +115,7 @@ References:
 
 * Internet of Shit - https://twitter.com/internetofshit
 * Connected sex toys, security nightmare - https://www.wired.co.uk/article/teledildonics-hacking-sex-toys
+* "Technology peaked in 2003 when you could fit your record collection on one device but that device didn't yet spy on you or retrain your brain to be a needy bundle of anxieties." - https://twitter.com/timescanner/status/1039955749097492480
 
 *START PROJECT 2*
 
@@ -241,5 +242,4 @@ Spaces
 * [Open Works]()
 * [The Foundery]()
 * [Baltimore Node]()
-
 
