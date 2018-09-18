@@ -1,6 +1,6 @@
 # Guidelines for the first project
 
-Expectations / Requirements:
+Concrete requirements:
 
 1. At least one data flow. Data flows include data sent to or from a hardware device or screen interface (Processing sketch, web page, or small game).
 1. Involves the Huzzah as either an input or an output. This means it somehow receives data from the environment (sensor, button, switch, touch, other interaction) and sends it somewhere or it receives data from the network and expresses it as an output device. Think light, sound, or movement.
