@@ -60,6 +60,7 @@ References:
 * welcome to Adafruit IO guide - https://learn.adafruit.com/welcome-to-adafruit-io
 
 
+
 ## week 004 - September 18
 
 Rapid prototyping!  Exercises, techniques, ideas.
@@ -71,6 +72,9 @@ References:
 * [So You Want To Be A Wizard](https://jvns.ca/wizard-zine.pdf)
 
 *START PROJECT 1*
+
+[see the project_01_guidelines document for details](https://github.com/abachman/intermedia-studio/blob/master/materials/project_01_guidelines.md)
+
 
 
 ## week 005 - September 25
