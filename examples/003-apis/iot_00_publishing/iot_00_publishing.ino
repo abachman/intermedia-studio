@@ -24,7 +24,7 @@ void setup() {
   Serial.begin(115200);
 
   // wait for serial monitor to open
-  while(! Serial);
+  // while(! Serial);
 
   Serial.print("Connecting to Adafruit IO");
 
@@ -54,14 +54,14 @@ void loop() {
   // Adafruit IO is rate limited for publishing, so a delay is required in
   // between feed->save events. In this example, we will wait three seconds
   // (1000 milliseconds == 1 second) during each loop.
-  delay(3000);
+  delay(5000);
 }
 
 char *word_list[] = {
-  "return", "medicate", "blindside", "boogie", "flap",
-  "trip", "trap", "snoop", "explode", "sketch",
-  "scatter", "challenge", "bury", "splatter", "peddle",
-  "balance", "boggle", "poke", "critique",
+  "return", "bloom", "devise", "boogie", "flap",
+  "trip", "trap", "snoop", "invoke", "sketch",
+  "scatter", "challenge", "bury", "obstruct", "peddle",
+  "balance", "boggle", "poke", "invite",
   // by sending the raw unicode byte sequence, we can use emoji!
   "\U0001F643", // upside down face
   "\U0001F98A"  // fox face
