@@ -30,7 +30,7 @@ String messages_feed = io_username + "/feeds/" + messages_feed_key;
 String shape;
 
 void setup() {
-  size(200, 200);
+  size(640, 640);
   ellipseMode(CENTER);
   rectMode(CENTER);
   fill(0, 200, 0);
@@ -72,5 +72,7 @@ void messageReceived(String topic, byte[] payload) {
   println("new message: " + topic + " - " + shape + "(" + shape.length() + ") bytes");
 
   // send notification back to IO
-  client.publish(messages_feed, "message received at " + Integer.toString(millis()) + " (" + shape.length() + ") bytes");
+  delay(30);
+  client.publish(messages_feed, "message received on Processing at " + Integer.toString(millis()) + " (" + shape.length() + ") bytes");
+  println("sent message");
 }

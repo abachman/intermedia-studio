@@ -23,11 +23,6 @@
 AdafruitIO_Feed *words = io.feed("words");
 AdafruitIO_Feed *messages = io.feed("messages");
 
-#include <Adafruit_NeoPixel.h>
-#define PIN            4
-#define NUMPIXELS      12
-Adafruit_NeoPixel pixels = Adafruit_NeoPixel(NUMPIXELS, PIN, NEO_GRB + NEO_KHZ800);
-
 void setup() {
 
   // start the serial connection
@@ -64,10 +59,6 @@ void setup() {
   Serial.println();
   Serial.println(io.statusText());
 
-  pixels.begin(); // This initializes the NeoPixel library.
-  allColor(pixels.Color(10, 10, 10));
-  delay(500);
-  allColor(pixels.Color(0,0,0));
 }
 
 void loop() {
@@ -92,25 +83,5 @@ void handleMessage(AdafruitIO_Data *data) {
   Serial.println(data->value());
 
   messages->save("received a word on Arduino");
-  String color = data->toString();
-  if (color == "red") {
-    allColor(pixels.Color(100, 0, 0));
-  } else if (color == "green") { 
-    allColor(pixels.Color(0, 100, 0));
-  } else if (color == "blue") {
-    allColor(pixels.Color(0, 0, 100));
-  } else {
-    allColor(pixels.Color(0, 0, 0));
-  }
 
 }
-
-void allColor(uint32_t color) {
-  for(int i=0;i<pixels.numPixels();i++){
-    // pixels.Color takes RGB values, from 0,0,0 up to 255,255,255
-    pixels.setPixelColor(i, color); // Moderately bright green color.
-    pixels.show();
-    delay(25);
-  }
-}
-
