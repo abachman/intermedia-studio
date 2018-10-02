@@ -22,4 +22,15 @@ Regarding code and technical assistance: I am willing to offer technical guidanc
 
 Simple is okay! Simple and complete is better than complex and incomplete. This is our first project of three, so there is time and space to go deeper in future projects.
 
+### First Session
+
+Before you leave today:
+
+I would like to know what you intend to work on and at least two checkpoints we can use next week to evaluate where you are on the project by the end of our next meeting (Tuesday, Sept 18).
+
+Checkpoints should be measurable, achievable goals that will help us (you and I) see progress from your initial idea to completed project. Some examples might be: "I will have the sculptural piece completed", "I will make sure I have working code for one of the sensors", or "I will have a functional prototype of the web page that people will interact with". If you're not sure what to aim for, consider working on what you think will be the hardest part of the project first. You may be wrong in retrospect, but **that's okay**. This is project estimation and it's a lot more art than science.
+
+You don't have to have completed _all_ of your project or even the whole first draft, but you should be far enough along that you can tell whether you are likely to be successful and you should have a pretty good idea of what the most difficult part of your project will be.
+
+We have 7 days between now and our next meeting and another 6 days after that until projects are due.
 
