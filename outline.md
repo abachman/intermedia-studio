@@ -88,15 +88,13 @@ Work session. Attendance is still required, but you will be free to work and get
 
 *PROJECT 1 DUE* - Presentations and crit.
 
-Topic: Feedback loops, Randomness and determinism
+Topic: Protocols!
 
 References:
 
-* New Interfaces for Musical Expression - http://www.nime.org/
-* Generative art!
-    * http://www.galaxykate.com/pdfs/galaxykate-zine-encyclopedia.pdf
-* large scale social systems
-    * https://en.wikipedia.org/wiki/Social_Credit_System
+* Processing network libraries: Client, Server
+* ESP8266 network libraries: Client
+
 
 
 ## week 007 - October 09
@@ -246,4 +244,19 @@ Spaces
 * [Open Works]()
 * [The Foundery]()
 * [Baltimore Node]()
+
+
+#### POSTPONED TOPICS
+
+Topic: Feedback loops, Randomness and determinism
+
+References:
+
+* New Interfaces for Musical Expression - http://www.nime.org/
+* Generative art!
+    * http://www.galaxykate.com/pdfs/galaxykate-zine-encyclopedia.pdf
+* large scale social systems
+    * https://en.wikipedia.org/wiki/Social_Credit_System
+
+
 
