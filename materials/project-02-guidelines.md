@@ -12,7 +12,7 @@ Guidelines:
 Keywords:  
 - Sensing, reacting, activating, deactivating.
 
-Tools available for use:
+Tools available for use: (in addition to whatever you choose for yourself)
 - Relay shield
 - Control pad / Indicator
 - Sound playback shield
