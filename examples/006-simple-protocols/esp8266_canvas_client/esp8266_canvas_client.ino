@@ -8,13 +8,13 @@ to send numbers over the wire.
 */
 
 #include <ESP8266WiFi.h>
-const char* ssid     = "MICA-Open";
-const char* password = "18261826";
+const char* ssid     = "";
+const char* password = "";
 
 // The server that all clients will connect to. host and port are dependent on 
 // the computer / network you would like to connect to.
-const char* host = "0.tcp.ngrok.io"; // this can be a hostname or an IP address
-const int   port = 18490;
+const char* host = ""; // this can be a hostname or an IP address
+const int   port = 0;
 
 // Use WiFiClient class to create TCP connections
 WiFiClient client;
